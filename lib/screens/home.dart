@@ -32,6 +32,8 @@ import 'facility_energe.dart';
 import 'facility_visiting_car.dart';
 import 'homenet_login.dart';
 
+import '../test/lynn_intro.dart';
+
 
 class Home extends StatefulWidget {
 	@override
@@ -186,6 +188,8 @@ class _HomeState extends State < Home > {
 									'/homenetLogin': (_) => BlocProvider < UserHomeBloc > (create: (_) => UserHomeBloc(userHomeModel), child: SignInHomenet(), ),
 									'/familyMember': (_) => ConfigFamilyScreen(userHomeModel: userHomeModel),
 									'/appInfo': (_) => AppInfoScreen(userHomeModel: userHomeModel),
+
+									'/newIntro': (_) => NewIntro(), // 테스트용으로 만들어놨습니다. 나중에 제거해주세요.
 								},
 								
 								onGenerateRoute: (routeSettings){ // Navigator.pushNamed() 가 호출된 때 실행됨

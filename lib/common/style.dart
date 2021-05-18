@@ -122,6 +122,7 @@ class BgColor {
   static const Color transWhite = Color.fromARGB(150, 255, 255, 255);
   static const Color transBlack = Color.fromARGB(150, 0, 0, 0);
   static const Color transgray = Color.fromARGB(150, 225, 225, 225);
+  static const Color newmain = Color.fromARGB(255, 243, 102, 40);
 }
 
 class TextFont {
@@ -289,6 +290,20 @@ class TextFont {
     fontFamily: 'NanumBarunGothic',
     fontWeight: FontWeight.w700,
     fontSize: 24,
+    color: const Color(0xffffffff)
+  );
+
+  static const TextStyle introText = TextStyle(
+    fontFamily: 'NanumBarunGothic',
+    fontWeight: FontWeight.w400,
+    fontSize: 16,
+    color: const Color(0xff3C3C3C)
+  );
+  
+  static const TextStyle introText_w = TextStyle(
+    fontFamily: 'NanumBarunGothic',
+    fontWeight: FontWeight.w400,
+    fontSize: 18,
     color: const Color(0xffffffff)
   );
 }

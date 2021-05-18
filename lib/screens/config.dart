@@ -598,6 +598,71 @@ class ConfigListScreen extends StatelessWidget {
 									),
 								),
 
+                Container(
+									decoration: BoxDecoration(
+										color: BgColor.white,
+										border: Border(bottom: BorderSide(width: 1, color: BgColor.rgray))
+									),
+									width: double.infinity,
+									child: FlatButton(
+										padding: EdgeInsets.all(0),
+										child: Container(
+											padding: EdgeInsets.only(
+												top: 15,
+												bottom: 15,
+												right: 20,
+												left: 20,
+											),
+											child: Row(
+												mainAxisAlignment: MainAxisAlignment.start,
+												crossAxisAlignment: CrossAxisAlignment.center,
+												children: [
+													Container(
+														alignment: Alignment.center,
+														width: 30,
+														height: 30,
+														child: Image.asset(
+															"assets/images/app.png",
+															fit: BoxFit.fitWidth,
+														),
+														margin: EdgeInsets.only(
+															right: 15,
+														),
+													),
+													Expanded(
+														child: Column(
+															mainAxisAlignment: MainAxisAlignment.start,
+															crossAxisAlignment: CrossAxisAlignment.center,
+															children: [
+																Container(
+																	alignment: Alignment.centerLeft,
+																	child: Text(
+																		'새 인트로화면 보기',
+																		style: TextFont.semibig,
+																	),
+																	margin: EdgeInsets.only(
+																		bottom: 2,
+																	)
+																),
+																Container(
+																	alignment: Alignment.centerLeft,
+																	child: Text(
+																		'새 인트로 화면을 볼 수 있습니다.',
+																		style: TextFont.normal_g,
+																	),
+																),
+															],
+														)
+													)
+												],
+											),
+										),
+										onPressed: () {
+											Navigator.pushNamed(context, '/newIntro');
+										}
+									),
+								),
+
 							],
 						),
 					)
