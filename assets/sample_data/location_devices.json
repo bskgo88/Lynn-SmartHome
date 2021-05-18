@@ -1,0 +1,150 @@
+[
+    {
+        "id": 20,
+        "home_id": 122,
+        "location_name": "서재3",
+        "image_path": null,
+        "createdAt": "2020-10-28T18:40:40.348Z",
+        "updatedAt": "2020-11-02T14:56:41.509Z",
+        "homedevices": []
+    },
+    {
+        "id": 18,
+        "home_id": 122,
+        "location_name": "안방",
+        "image_path": null,
+        "createdAt": "2020-10-28T02:04:45.599Z",
+        "updatedAt": "2020-10-28T02:04:45.599Z",
+        "homedevices": []
+    },
+    {
+        "id": 6,
+        "home_id": 122,
+        "location_name": "거실",
+        "image_path": null,
+        "createdAt": "2020-10-08T07:12:04.796Z",
+        "updatedAt": "2020-10-08T07:12:04.796Z",
+        "homedevices": [
+            {
+                "id": 8,
+                "home_id": 122,
+                "device_id": "012411",
+                "device_model_id": 3,
+                "device_name": "거실 난방",
+                "home_location_id": 6,
+                "createdAt": "2020-09-23T10:53:06.702Z",
+                "updatedAt": "2020-10-28T15:24:49.889Z",
+                "devicemodel": {
+                    "id": 3,
+                    "model_name": "현대통신 난방",
+                    "max_temperature": null,
+                    "min_temperature": null,
+                    "model_type_code_id": 9,
+                    "air_volume_id": null,
+                    "operation_mode_id": null,
+                    "createdAt": "2020-09-23T10:14:41.033Z",
+                    "updatedAt": "2020-09-23T10:14:49.681Z",
+                    "modeltype": {
+                        "id": 9,
+                        "code": "heating",
+                        "code_name": "난방",
+                        "use_yn": "Y",
+                        "parent_id": 6,
+                        "createdAt": "2020-09-22T12:05:54.147Z",
+                        "updatedAt": "2020-09-23T04:10:54.739Z"
+                    }
+                }
+            },
+            {
+                "id": 10,
+                "home_id": 122,
+                "device_id": "012512",
+                "device_model_id": 1,
+                "device_name": "거실2",
+                "home_location_id": 6,
+                "createdAt": "2020-09-23T10:53:06.782Z",
+                "updatedAt": "2020-11-03T13:43:11.723Z",
+                "devicemodel": {
+                    "id": 1,
+                    "model_name": "현대통신 조명",
+                    "max_temperature": null,
+                    "min_temperature": null,
+                    "model_type_code_id": 7,
+                    "air_volume_id": null,
+                    "operation_mode_id": null,
+                    "createdAt": "2020-09-15T11:38:13.345Z",
+                    "updatedAt": "2020-09-23T10:15:03.263Z",
+                    "modeltype": {
+                        "id": 7,
+                        "code": "light",
+                        "code_name": "일반조명",
+                        "use_yn": "Y",
+                        "parent_id": 6,
+                        "createdAt": "2020-09-22T12:05:54.147Z",
+                        "updatedAt": "2020-09-22T12:05:54.182Z"
+                    }
+                }
+            },
+            {
+                "id": 11,
+                "home_id": 122,
+                "device_id": "012513",
+                "device_model_id": 1,
+                "device_name": "복도",
+                "home_location_id": 6,
+                "createdAt": "2020-09-23T10:53:06.822Z",
+                "updatedAt": "2020-11-03T14:01:02.136Z",
+                "devicemodel": {
+                    "id": 1,
+                    "model_name": "현대통신 조명",
+                    "max_temperature": null,
+                    "min_temperature": null,
+                    "model_type_code_id": 7,
+                    "air_volume_id": null,
+                    "operation_mode_id": null,
+                    "createdAt": "2020-09-15T11:38:13.345Z",
+                    "updatedAt": "2020-09-23T10:15:03.263Z",
+                    "modeltype": {
+                        "id": 7,
+                        "code": "light",
+                        "code_name": "일반조명",
+                        "use_yn": "Y",
+                        "parent_id": 6,
+                        "createdAt": "2020-09-22T12:05:54.147Z",
+                        "updatedAt": "2020-09-22T12:05:54.182Z"
+                    }
+                }
+            },
+            {
+                "id": 9,
+                "home_id": 122,
+                "device_id": "012511",
+                "device_model_id": 1,
+                "device_name": "거실1",
+                "home_location_id": 6,
+                "createdAt": "2020-09-23T10:53:06.743Z",
+                "updatedAt": "2020-11-03T14:01:03.817Z",
+                "devicemodel": {
+                    "id": 1,
+                    "model_name": "현대통신 조명",
+                    "max_temperature": null,
+                    "min_temperature": null,
+                    "model_type_code_id": 7,
+                    "air_volume_id": null,
+                    "operation_mode_id": null,
+                    "createdAt": "2020-09-15T11:38:13.345Z",
+                    "updatedAt": "2020-09-23T10:15:03.263Z",
+                    "modeltype": {
+                        "id": 7,
+                        "code": "light",
+                        "code_name": "일반조명",
+                        "use_yn": "Y",
+                        "parent_id": 6,
+                        "createdAt": "2020-09-22T12:05:54.147Z",
+                        "updatedAt": "2020-09-22T12:05:54.182Z"
+                    }
+                }
+            }
+        ]
+    }
+]

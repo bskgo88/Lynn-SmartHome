@@ -1,0 +1,110 @@
+{
+	"totalCount": 100,
+	"parkingControlList": [
+		{
+			"id": 1,
+			"carNo": "111가1234",
+			"inoutType": "AMA001",
+			"carAlias": "TEST",
+			"inoutCreDt": 1523608242000
+		},
+		{
+			"id": 2,
+			"carNo": "111가1234",
+			"inoutType": "AMA002",
+			"carAlias": "TEST",
+			"inoutCreDt": 1523527896000
+		},
+		{
+			"id": 3,
+			"carNo": "33다3456",
+			"inoutType": "AMA003",
+			"carAlias": "방문",
+			"inoutCreDt": 1523527896000
+		},
+		{
+			"id": 4,
+			"carNo": "33다3456",
+			"inoutType": "AMA004",
+			"carAlias": "방문",
+			"inoutCreDt": 1523527896000
+		},
+		{
+			"id": 5,
+			"carNo": "111가1234",
+			"inoutType": "AMA001",
+			"carAlias": "TEST",
+			"inoutCreDt": 1523608242000
+		},
+		{
+			"id": 6,
+			"carNo": "111가1234",
+			"inoutType": "AMA002",
+			"carAlias": "TEST",
+			"inoutCreDt": 1523527896000
+		},
+		{
+			"id": 7,
+			"carNo": "33다3456",
+			"inoutType": "AMA003",
+			"carAlias": "방문",
+			"inoutCreDt": 1523527896000
+		},
+		{
+			"id": 8,
+			"carNo": "33다3456",
+			"inoutType": "AMA004",
+			"carAlias": "방문",
+			"inoutCreDt": 1523527896000
+		},
+		{
+			"id": 9,
+			"carNo": "111가1234",
+			"inoutType": "AMA001",
+			"carAlias": "TEST",
+			"inoutCreDt": 1523608242000
+		},
+		{
+			"id": 10,
+			"carNo": "111가1234",
+			"inoutType": "AMA002",
+			"carAlias": "TEST",
+			"inoutCreDt": 1523527896000
+		},
+		{
+			"id": 11,
+			"carNo": "33다3456",
+			"inoutType": "AMA003",
+			"carAlias": "방문",
+			"inoutCreDt": 1523527896000
+		},
+		{
+			"id": 12,
+			"carNo": "33다3456",
+			"inoutType": "AMA004",
+			"carAlias": "방문",
+			"inoutCreDt": 1523527896000
+		},
+		{
+			"id": 13,
+			"carNo": "111가1234",
+			"inoutType": "AMA002",
+			"carAlias": "TEST",
+			"inoutCreDt": 1523527896000
+		},
+		{
+			"id": 14,
+			"carNo": "33다3456",
+			"inoutType": "AMA003",
+			"carAlias": "방문",
+			"inoutCreDt": 1523527896000
+		},
+		{
+			"id": 15,
+			"carNo": "33다3456",
+			"inoutType": "AMA004",
+			"carAlias": "방문",
+			"inoutCreDt": 1523527896000
+		}
+	]	
+}

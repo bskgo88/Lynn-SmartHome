@@ -1,0 +1,104 @@
+[
+    {
+        "id": 2,
+        "home_id": 122,
+        "routine_name": "외출모드",
+        "createdAt": "2020-11-03T09:55:57.414Z",
+        "updatedAt": "2020-11-03T14:31:53.117Z",
+        "devices": [
+            {
+                "id": 6,
+                "routine_id": 2,
+                "home_device_id": 8,
+                "traits": {
+                    "commandList": [
+                        {
+                            "value": "on",
+                            "command": "power"
+                        },
+                        {
+                            "value": "in",
+                            "command": "mode"
+                        },
+                        {
+                            "value": "25",
+                            "command": "setTemperature"
+                        }
+                    ]
+                },
+                "createdAt": "2020-11-03T10:14:57.938Z",
+                "updatedAt": "2020-11-04T05:13:02.139Z",
+                "homedevice": {
+                    "id": 8,
+                    "home_id": 122,
+                    "device_id": "012411",
+                    "device_model_id": 3,
+                    "device_name": "거실 난방",
+                    "home_location_id": null,
+                    "createdAt": "2020-09-23T10:53:06.702Z",
+                    "updatedAt": "2020-11-03T14:17:41.462Z",
+                    "devicemodel": {
+                        "id": 3,
+                        "model_name": "현대통신 난방",
+                        "max_temperature": null,
+                        "min_temperature": null,
+                        "model_type_code_id": 9,
+                        "air_volume_id": null,
+                        "operation_mode_id": null,
+                        "createdAt": "2020-09-23T10:14:41.033Z",
+                        "updatedAt": "2020-11-04T03:35:24.332Z",
+                        "modeltype": {
+                            "id": 9,
+                            "code": "heating",
+                            "code_name": "난방",
+                            "use_yn": "Y",
+                            "parent_id": 6,
+                            "createdAt": "2020-09-22T12:05:54.147Z",
+                            "updatedAt": "2020-09-23T04:10:54.739Z"
+                        }
+                    }
+                }
+            },
+            {
+                "id": 9,
+                "routine_id": 2,
+                "home_device_id": 10,
+                "traits": {
+                    "commandList": []
+                },
+                "createdAt": "2020-11-04T05:15:17.623Z",
+                "updatedAt": "2020-11-04T05:15:17.623Z",
+                "homedevice": {
+                    "id": 10,
+                    "home_id": 122,
+                    "device_id": "012512",
+                    "device_model_id": 1,
+                    "device_name": "거실2",
+                    "home_location_id": 6,
+                    "createdAt": "2020-09-23T10:53:06.782Z",
+                    "updatedAt": "2020-11-03T13:43:11.723Z",
+                    "devicemodel": {
+                        "id": 1,
+                        "model_name": "현대통신 조명",
+                        "max_temperature": null,
+                        "min_temperature": null,
+                        "model_type_code_id": 7,
+                        "air_volume_id": null,
+                        "operation_mode_id": null,
+                        "createdAt": "2020-09-15T11:38:13.345Z",
+                        "updatedAt": "2020-11-04T03:35:03.097Z",
+                        "modeltype": {
+                            "id": 7,
+                            "code": "light",
+                            "code_name": "일반조명",
+                            "use_yn": "Y",
+                            "parent_id": 6,
+                            "createdAt": "2020-09-22T12:05:54.147Z",
+                            "updatedAt": "2020-09-22T12:05:54.182Z"
+                        }
+                    }
+                }
+            }
+        ]
+    }
+]

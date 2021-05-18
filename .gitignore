@@ -1,0 +1,16 @@
+build
+.dart_tool
+/.flutter-plugins
+/.flutter-plugins-dependencies
+/.packages
+/pubspec.lock
+ios/Pods
+ios/Runner.xcodeproj/project.pbxproj
+ios/Podfile
+ios/Podfile.lock
+ios/Flutter/.last_build_id
+.DS_Store
+android/local.properties
+ios/Flutter/.last_build_id
+android/local.properties
+android/local.properties

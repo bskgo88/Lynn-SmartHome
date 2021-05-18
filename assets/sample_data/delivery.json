@@ -1,0 +1,140 @@
+{
+	"totalCount": 100,
+	"parcelList": [
+		{
+			"parcelGetId": 1, 
+			"parcelStatusChangeDt": 1501554863000,
+			"parcelStatus": "택배도착",
+			"parcelCompany": "한진 택배",
+			"parcelBoxNo": "10",
+			"parcelBoxDtlNo": null,
+			" confirmYn": "Y"
+		},
+		{
+			"parcelGetId": 2,
+			"parcelStatusChangeDt": 1501554863000,
+			"parcelStatus": "택배수령",
+			"parcelCompany": "한진 택배",
+			"parcelBoxNo": "10",
+			"parcelBoxDtlNo": null,
+			" confirmYn": "N"
+		},
+		{
+			"parcelGetId": 3, 
+			"parcelStatusChangeDt": 1501554863000,
+			"parcelStatus": "택배도착",
+			"parcelCompany": "한진 택배",
+			"parcelBoxNo": "10",
+			"parcelBoxDtlNo": null,
+			" confirmYn": "Y"
+		},
+		{
+			"parcelGetId": 4,
+			"parcelStatusChangeDt": 1501554863000,
+			"parcelStatus": "택배수령",
+			"parcelCompany": "한진 택배",
+			"parcelBoxNo": "10",
+			"parcelBoxDtlNo": null,
+			" confirmYn": "N"
+		},
+		{
+			"parcelGetId": 5,
+			"parcelStatusChangeDt": 1501554863000,
+			"parcelStatus": "택배수령",
+			"parcelCompany": "한진 택배",
+			"parcelBoxNo": "10",
+			"parcelBoxDtlNo": null,
+			" confirmYn": "N"
+		},
+		{
+			"parcelGetId": 6, 
+			"parcelStatusChangeDt": 1501554863000,
+			"parcelStatus": "택배도착",
+			"parcelCompany": "한진 택배",
+			"parcelBoxNo": "10",
+			"parcelBoxDtlNo": null,
+			" confirmYn": "Y"
+		},
+		{
+			"parcelGetId": 7,
+			"parcelStatusChangeDt": 1501554863000,
+			"parcelStatus": "택배수령",
+			"parcelCompany": "한진 택배",
+			"parcelBoxNo": "10",
+			"parcelBoxDtlNo": null,
+			" confirmYn": "N"
+		},
+		{
+			"parcelGetId": 8,
+			"parcelStatusChangeDt": 1501554863000,
+			"parcelStatus": "택배수령",
+			"parcelCompany": "한진 택배",
+			"parcelBoxNo": "10",
+			"parcelBoxDtlNo": null,
+			" confirmYn": "N"
+		},
+		{
+			"parcelGetId": 9, 
+			"parcelStatusChangeDt": 1501554863000,
+			"parcelStatus": "택배도착",
+			"parcelCompany": "한진 택배",
+			"parcelBoxNo": "10",
+			"parcelBoxDtlNo": null,
+			" confirmYn": "Y"
+		},
+		{
+			"parcelGetId": 10,
+			"parcelStatusChangeDt": 1501554863000,
+			"parcelStatus": "택배수령",
+			"parcelCompany": "한진 택배",
+			"parcelBoxNo": "10",
+			"parcelBoxDtlNo": null,
+			" confirmYn": "N"
+		},
+		{
+			"parcelGetId": 11,
+			"parcelStatusChangeDt": 1501554863000,
+			"parcelStatus": "택배수령",
+			"parcelCompany": "한진 택배",
+			"parcelBoxNo": "10",
+			"parcelBoxDtlNo": null,
+			" confirmYn": "N"
+		},
+		{
+			"parcelGetId": 12, 
+			"parcelStatusChangeDt": 1501554863000,
+			"parcelStatus": "택배도착",
+			"parcelCompany": "한진 택배",
+			"parcelBoxNo": "10",
+			"parcelBoxDtlNo": null,
+			" confirmYn": "Y"
+		},
+		{
+			"parcelGetId": 13,
+			"parcelStatusChangeDt": 1501554863000,
+			"parcelStatus": "택배수령",
+			"parcelCompany": "한진 택배",
+			"parcelBoxNo": "10",
+			"parcelBoxDtlNo": null,
+			" confirmYn": "N"
+		},
+		{
+			"parcelGetId": 14,
+			"parcelStatusChangeDt": 1501554863000,
+			"parcelStatus": "택배수령",
+			"parcelCompany": "한진 택배",
+			"parcelBoxNo": "10",
+			"parcelBoxDtlNo": null,
+			" confirmYn": "N"
+		},
+		{
+			"parcelGetId": 15, 
+			"parcelStatusChangeDt": 1501554863000,
+			"parcelStatus": "택배도착",
+			"parcelCompany": "한진 택배",
+			"parcelBoxNo": "10",
+			"parcelBoxDtlNo": null,
+			" confirmYn": "Y"
+		}
+	]
+}

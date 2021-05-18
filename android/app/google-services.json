@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959223919697",
+    "project_id": "woomi-smart-home-656a3",
+    "storage_bucket": "woomi-smart-home-656a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959223919697:android:99bc78a85792e5ef0d7470",
+        "android_client_info": {
+          "package_name": "com.woomi.smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959223919697-igbo80fuo2jdijslh17ek3ea8knmgu0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaBRZCyehdB2PBz40u2rguFb9fnApviCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959223919697-igbo80fuo2jdijslh17ek3ea8knmgu0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

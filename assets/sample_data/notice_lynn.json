@@ -1,0 +1,41 @@
+{
+	"totalCount": 100,
+	"noticeList": [
+		{
+			"bbsId": 1,
+			"bbsTitle": "홈넷 연동은 어떻게 하나요?",
+			"bbsCreDt": 1501554863000,
+			"bbsWriter": "관리자",
+			"bbsContent": "설정 > 홈넷연동 화면에서 홈넷사 아이디/비밀번호 및 단지 정보를 입력 후 연동하시면 됩니다.",
+			"bbsHits": 0,
+			"isNew": "true"
+		  },
+		  {
+			"bbsId": 2,
+			"bbsTitle": "비밀번호 변경을 하고 싶어요.",
+			"bbsCreDt": 1501554863000,
+			"bbsWriter": "관리자",
+			"bbsContent": "설정 > 가족구성원 화면에서 비밀번호를 변경하실 수 있습니다.",
+			"bbsHits": 0,
+			"isNew": "true"
+		  },
+		  {
+			"bbsId": 3,
+			"bbsTitle": "11.30  02시 서버 작업 공지입니다.",
+			"bbsCreDt": 1501554863000,
+			"bbsWriter": "관리자",
+			"bbsContent": "11월30일 새벽 2시 부터 4시까지 서버 작업을 진행합니다. 해당 시간 월패드 및 공용부 관련 서비스가 원활하지 않을 수 있습니다.",
+			"bbsHits": 0,
+			"isNew": "true"
+		  },
+		  {
+			"bbsId": 4,
+			"bbsTitle": "시범단지 테스트 일정입니다.",
+			"bbsCreDt": 1501554863000,
+			"bbsWriter": "관리자",
+			"bbsContent": "현재 오픈 준비중입니다.\n시범단지 테스트 일정은 아래와 같습니다.\n충북혁신도시 우미린 방문 테스트는 11월 20일입니다.",
+			"bbsHits": 0,
+			"isNew": "true"
+		  }
+	]
+  }

@@ -1,0 +1,73 @@
+{
+	"usageList": [{
+			"period": "MONTH",
+			"usage": 100.90,
+			"sameAreaTypeUsage": 110.20,
+			"allUsage": 110.20,
+			"startDate": 1534901125,
+			"endDate": 1534901125,
+			"displayDate": 1534901125,
+			"energyType": "ELEC"
+		},
+		{
+			"period": " MONTH",
+			"usage": 110.90,
+			"sameAreaTypeUsage": 100.90,
+			"allUsage": 110.20,
+			"startDate": 1534901125,
+			"endDate": 1534901125,
+			"displayDate": 1534901125,
+			"energyType": "GAS"
+		},
+		{
+			"period": " MONTH",
+			"usage": 110.90,
+			"sameAreaTypeUsage": 100.90,
+			"allUsage": 110.20,
+			"startDate": 1534901125,
+			"endDate": 1534901125,
+			"displayDate": 1534901125,
+			"energyType": "WATER"
+		},
+		{
+			"period": " MONTH",
+			"usage": 110.90,
+			"sameAreaTypeUsage": 100.90,
+			"allUsage": 110.20,
+			"startDate": 1534901125,
+			"endDate": 1534901125,
+			"displayDate": 1534901125,
+			"energyType": "HOTWATER"
+		},
+		{
+			"period": " MONTH",
+			"usage": 110.90,
+			"sameAreaTypeUsage": 100.90,
+			"allUsage": 110.20,
+			"startDate": 1534901125,
+			"endDate": 1534901125,
+			"displayDate": 1534901125,
+			"energyType": "HEATING"
+		},
+		{
+			"period": " MONTH",
+			"usage": 110.90,
+			"sameAreaTypeUsage": 100.90,
+			"allUsage": 110.20,
+			"startDate": 1534901125,
+			"endDate": 1534901125,
+			"displayDate": 1534901125,
+			"energyType": "COOLING"
+		},
+		{
+			"period": " MONTH",
+			"usage": 110.90,
+			"sameAreaTypeUsage": 100.90,
+			"allUsage": 110.20,
+			"startDate": 1534901125,
+			"endDate": 1534901125,
+			"displayDate": 1534901125,
+			"energyType": "ALL"
+		}
+	]
+}

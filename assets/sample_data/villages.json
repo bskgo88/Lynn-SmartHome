@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "village_name": "테스트 단지 1차",
+        "address": "경기도 화성시 동탄대로시범길",
+        "homenet_id": 0,
+        "site_id": "1",
+        "createdAt": "2020-09-22T12:05:54.305Z",
+        "updatedAt": "2020-09-22T12:05:54.318Z"
+    },
+    {
+        "id": 3,
+        "village_name": "woomi lynn iot test 단지",
+        "address": "경기도 모처",
+        "homenet_id": 0,
+        "site_id": "572",
+        "createdAt": "2020-09-23T07:21:27.855Z",
+        "updatedAt": "2020-09-23T07:21:27.855Z"
+    },
+    {
+        "id": 2,
+        "village_name": "테스트 단지 2차",
+        "address": "경기도 성남시",
+        "homenet_id": 0,
+        "site_id": "2",
+        "createdAt": "2020-09-22T12:05:54.305Z",
+        "updatedAt": "2020-09-23T07:21:35.193Z"
+    }
+]
