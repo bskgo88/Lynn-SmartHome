@@ -25,7 +25,7 @@ class LynnApp extends StatelessWidget {
         const Locale('en', 'US'),
         const Locale('ko', 'KO'),
       ],
-      title: '우미건설 스마트 홈 테스트',
+      title: '우미건설 스마트 홈',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.orange,
