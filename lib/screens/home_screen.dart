@@ -177,7 +177,8 @@ class _HomeScreenState extends State < HomeScreen > {
 															builder: (_) => BlocProvider < UserHomeBloc > (
 																create: (_) => UserHomeBloc(userHomeModel),
 																child: ConfigFavorite(userHomeModel: userHomeModel, prevPage: "/smarthome", ),
-															))
+															)
+                            )
 													);
 												},
 												child: Column(
